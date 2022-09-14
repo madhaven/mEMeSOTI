@@ -8,3 +8,4 @@ assignees: ''
 ---
 
 ** if it ain't funny, no one's gonna judge ... we all have different levels of memExp.
+** simply attach your meme along with the issue and you're done 👍
